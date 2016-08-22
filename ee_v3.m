@@ -80,6 +80,7 @@ minimo = min(resmin)
 maximo = max(resmax)
 dpmed = std(resmed)
 dpmin = std(resmin)
+melhor
 
 
 %pop = calculo_sigma(pop, n_populacao, n);
